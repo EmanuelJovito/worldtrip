@@ -20,13 +20,16 @@ export default function Home() {
           w="100vw"
           h="18rem"
         >
-          <Image src="background.png" w="100vw"/>
+          <Image 
+            src="background.png" 
+            w="100vw" 
+            h="15rem"/>
           <Image 
             src="airplane.svg" 
-            boxSize="20rem" 
+            boxSize="18rem" 
             position="absolute"
             right="20"
-            top="102"
+            top="75"
           />
           <Text 
             position="absolute" 
