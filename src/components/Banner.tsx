@@ -5,6 +5,7 @@ export function Banner() {
     <Flex
       w="100vw"
       h="18rem"
+      mb="2rem"
     >
       <Image 
         src="background.png" 
