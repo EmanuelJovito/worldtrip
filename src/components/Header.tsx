@@ -3,7 +3,7 @@ import { Flex, Image } from "@chakra-ui/react";
 export function Header() {
   return (
     <Flex
-      w="100vw"
+      w="100%"
       h="3.5rem"
       align="center"
       justify="center"
