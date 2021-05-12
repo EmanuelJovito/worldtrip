@@ -1,0 +1,46 @@
+{
+  "continents": [
+    {
+      "id": "europa",
+      "continent": "Europa",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "informations": {
+        "countries": "50",
+        "language": "60",
+        "citys": "27"
+      },
+      "most_citys": {
+        "londres": {
+          "countrie": "Reino Unido",
+          "city": "Londres",
+          "thumb": "https://s3-alpha-sig.figma.com/img/1db8/ec22/64a5ba2142d081c49ed2ecccb92bc064?Expires=1621814400&Signature=HFdN7Vy60YeCV3if498xXQUlJeqO4InyaZIubrgFbsbfRkjVl6Em7k~zhoyhxexgV11ixqAtGlMfsDZQ~WtZP9G5Ym~93tAZxauYU7gBFAEEOdbSvCqPgcKO6lpAbTRyZbB8zIQdtGZOzXiwp1DUCLU84xNCsVgbKnIjF8lBwJCg6tBFTQzSFeD89yYI31Qk4zLkr9V4tL4Dl3MTl6CHpfjvfHg~nTTge9-TPULqE6jeJ9PuwVxxSzBrbSH3iepyy894oHgfVbOPqABv2CIK0133-NpCCxc62hfRlDZPBzyVR6Qvca8B86x2o0xUA1xx2J-8BwNurrFqV~p~zA8UGg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+          "flag": "https://s3-alpha-sig.figma.com/img/839d/769a/09fd5ea34d2c270558583d90a952d2f3?Expires=1621814400&Signature=HoB8Rpp2Vfl1BT69ilgkspLK~~p~DgvNwNBHn-DSgkUTXAzPkG0sIN68snz8XcAyyFYBgGb7jOoDz3KUqCGMthjFBbY~V~oh5FiUoOFzA6p9rx7bIhwAciU~TgH7coPv2ipa2nXZL68fAaXeGUI5wDqW0mpHcrPLNx7sm8ZPz9jjnOgwnxu9HFoNw~cN80VpLMQmQpeVVeNQpf59BjfzjD~q5kKcavRCoIgkKyLbfLZ2oQw2URLQlBMjYAUJ-mMILox0EOlERb~8TneVp2GGP8xdoPlmjJt07dlXlX4Ec3Nxzi1KJClAnQM5tV~-SteGeiMA4VsAM3NuDLInbWe~jg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        "paris": {
+          "countrie": "França",
+          "city": "Paris",
+          "thumb": "https://s3-alpha-sig.figma.com/img/532d/7211/9a1187523e3bc218691ba4d94644ea37?Expires=1621814400&Signature=D7AvewM7wYW0cqU4BjqcXvTfApLu85BqzifS3gs9xJ0fH0wQ5wNLToxpxF2qUEpIHndczAxBDSVqzO-bfMo-Xmh2iwHlKcU2Nrdrg7k5uEWD61byFKqwvqeUo1NegGLXD8yr3eUHL2sLbynryTCssq9xHBKcfXMrqGIIjRsXgQLIfVY6BbM4ndfSW7l1g~vWn-5vqucd~Uu6nRluqPPsyZjFM97SnMX7hoWtiRU17gepz26Kh0vRacYW7rpz0KQSWvBTSmBWML82frl~VE32HW1XJ8MmEDeTGNR0~2iU4CcHy9-CJeDbPwt4IXo4FDUjyL0G4M8Ml-JcjRV7Ee7myg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+          "flag": "https://s3-alpha-sig.figma.com/img/1c21/268e/693dd25a483603ff752fee647c63c88d?Expires=1621814400&Signature=J1la-24XM9dXAFySIhpxAC03tk98aiFwqntk41zFZkb4yClGVGLfJdGrnE7QAeOsHn6hOqZ0RJeeDOWusJI-RsSvX86eG5Ky-q91c0QLVPBqKM2-cZWlW-a~ZO8QFoTOSBNn8qCPKWAyAIXPPwDACeLQvSnKgsvcI3wwpnosGs8Z05zolFWJgF2cy3zSiD~HqhRCxXhaPlz6SMLu70VvjnabqDRIhLZw3mHaTwMZWJK7rlgjhg80mMdiUTlaOHmluJP2G8i4ks4lqQvyChZKobDOVwGb3IZvOITppRCXWGW34zwamnhEBcNYsXUc8bGNT137ztDG8E94JlcmeJDWzg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        "roma": {
+          "countrie": "Roma",
+          "city": "Itália",
+          "thumb": "https://s3-alpha-sig.figma.com/img/eee0/88c4/eaa4a71e49d6569db7087e2ea17daac2?Expires=1621814400&Signature=KAxFjcChn3EXLZeoA4O5ANWXxL0NMNSZL7TYWyQUdejx~xhmJWTAa6tBz6Yveg0csNcn3xp0q~L-WFSus~TGHBfrkYtTzTg~lZNwYFQ89fRFoJ1jx~CBuVZMRcSbas0PJvPwcOgyxV-6B9ULAcW574lwFTeJBjBxuKxxRRJ4tO2gP2FqTbpDeblOzjHotG7k11wiVvbtKeXwvallFFHCZYiGTjcYa-HctZbW49O0S9Xph5zKgjo6s8Yp3iIlkSV5RRHan3Gfg-9wInd6bSauiH40Pgm7GQ~hDairN8Eut9mbuDsBcXSIIlCAro-2kb3-gAWKJkn0oOKsHE~5WpsjrQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+          "flag": "https://s3-alpha-sig.figma.com/img/f2d7/eddd/fc48f63507cc94f938afd448c7d8af2c?Expires=1621814400&Signature=ggFsWqQ~USZSWZHDcIqpruX02flqwgY~wKzbNQvQOD4RbptRpl52Yb0dEtzvYBiLnv9uI8HafbgOJKA-d8mXC2g7B3oShfkgfI8ltvLE1JGh8HXa7Ccknv3nPMlHY52~TJTRgmkjLod4tvz-lkS4X9g3mthWxfJblAaX1x7BwrmR3nfbUtCB7lEYVtLega-e-spMw5JoJX5odsrlL2Q2HJWflVdeFRsv9MYsuaElbb1qdLXRhN96X6oA0hgEVWeizUPYFtScSl2O3DGPSeEbzCMWMEqf1ldrA~hlZfp9ygFmdSrVA2ht9e1J632vfe8MUe6RfB336MthkzY~iOfUIw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        "praga": {
+          "countrie": "República Tcheca",
+          "city": "Praga",
+          "thumb": "https://s3-alpha-sig.figma.com/img/988f/29a2/12691461c54979a5a53403589effd62a?Expires=1621814400&Signature=LrV-2oY~-18QzZ7ndSYF3nu0i8AW2oLhxR9LSBb164Uxl846ldX2VVrdMqFidP96qTyReEB4Eoa5qKp4TetlRiJzOh0Z81HlouOnps0NAtQEK7yKn9yR7XuQNo0~0qIKroEITa7pLOS9WAUPpvAecdNWJdZE~UpeYy5NCfFEKO5IX1nGu0oIADZC67rHryD17oTU4zeqGWzI5WJVH9TQTTfWx1ptefse7uI-coXMO2pER3Q0z-YpOROu9olqE7o-42~1PLeXf9YcjyggbM58lL0FF7vz7gn9UpUWiN8wEcwwhboGAILpINffYEoi9r1sqBEaq8Q2rxSo~FOlizW3LA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+          "flag": "https://s3-alpha-sig.figma.com/img/fa29/6de3/b0061638a1a5fa871a89173caa9e62dc?Expires=1621814400&Signature=dTZPnnOjN0hSMLazxqQ83NoUaZSXvBdmqSfpxyRjro4JxhJ61eO8vhW3hEP976I2d-EonLvb8dYnPgX836vPdwP49R-vCgz02SbvGVcF3TFD-5m7rwv9KbZdA0hy6Nu3W64hJTL5dVvqZ3U97Vr8IR7qCgGXW~XwhhEk75owKIRVVAIgenV4xLFDkwSNzWb4zf~3Kmhee44jt7nRjYT23IzsggT2~XM3pK5xEWFWsfmvxaLwN-9sAbOlTl9dw02B~q-SHAl7yCNgOLT70GYCoBDxjbP3QUJYYWzX31W9bMkQacZdLIMTF87i3AcyADxxxp171fQX0QJ16tKPli4H5Q__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        "amsterda": {
+          "countrie": "Holanda",
+          "city": "Amsterdã",
+          "thumb": "https://s3-alpha-sig.figma.com/img/f650/fbff/09d2158955ace9be8abd11acef6c9606?Expires=1621814400&Signature=GEHTgqF~uLyPWfJIeM6TzOcsWQ6-Zr0rDcLKZKPevVTf8O~6gYjvRHdyvb2anh4E7WYRvIUPWd7SE2RpI2~johxTTm8GrNYj~6B5RfgV1Yf7KrdVe5bNxZBkMSV5VBTf~dQUvNMjVuB3dkh8SBZm8VVJ6k1pjzl-28A0zPB9FmmUJZRFZrDkp~gq3BipBD96q9IG8YS7CRTSEoLDmmJfjRztb2QrbSGNH3F9Kj49hahqtZF751yUpiLPzTNPPylnrlgey8XvurBUymxcW0boi1DsIwjv43x7GyTp~XOP19RNZac6sZEAyB-FJMlr0WFc0rxXakFpvLENZw8GwUwlIQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+          "flag": "https://s3-alpha-sig.figma.com/img/a216/dd9d/438d40a947e2b1acdaa6d7adefeb6f35?Expires=1621814400&Signature=hP1e4LlMPFXqfb6~~je2sIxsH-qqud8vrYO-cdEXcTbRJm3hZo63fj2~7p0DRONuOys69-u-rR0VRoEa7NviwEucLJUl6TWYxlNsZN9Ur0PWMGdOXOvRbTeBnFnPd0BZg7WWsTJiPd9eKKfyxNIHCQbGnU7eiTPJwqH1ab9AWhoOrHQygexibAyEy6fJFpglyvIvxVbH7ADZF0zirw639crbx3BkstYXHnhksRIB5FoNnieVMjWh4O~pDetJtUGL8NNdOz0A4zJcHh1vGk04daB9I0Rfzf7dkpYeq52XsZfEu~nKNYRYsMS6vvOOIymm4spab7NNeUdpfuQ~pzqXzw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        }
+      }
+    }
+  ]
+}
