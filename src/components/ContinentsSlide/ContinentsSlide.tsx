@@ -1,45 +1,50 @@
 import { Image, Text } from '@chakra-ui/react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
+import { AfricaSlide } from './continents/AfricaSlide';
+import { AmericaDoNorteSlide } from './continents/AmericaDoNorteSlide';
+import { AmericaDoSulSlide } from './continents/AmericaDoSulSlide';
+import { AsiaSlide } from './continents/AsiaSlide';
+import { EuropaSlide } from './continents/EuropaSlide';
+import { OceaniaSlide } from './continents/OceaniaSlide';
+
 import styles from './styles.module.css'
 
 export function ContinentsSlide() {
   return (
     <>
-      <Swiper 
-        cssMode={true} 
-        navigation={true} 
-        pagination={true} 
-        mousewheel={true} 
-        keyboard={true}
-        className={styles.myswaper}
-      >
-        <SwiperSlide className={styles.swiperSlide}>
-          <Image src="continentes/europa.png" className={styles.swiperImage}/>
-          <Text fontWeight="700" position="absolute" fontSize="3rem" color="#DADADA">Europa</Text>
-          <Text fontWeight="700" position="absolute" top="250" fontSize="1.5rem" color="#DADADA">O continente mais antigo.</Text>
-        </SwiperSlide>
-        <SwiperSlide className={styles.swiperSlide}>
-          <Image src="continentes/americadosul.jpg" className={styles.swiperImage}/>
-          <Text fontWeight="700" position="absolute" fontSize="3rem" color="white">América do Sul</Text>
-        </SwiperSlide>
-        <SwiperSlide className={styles.swiperSlide}>
-          <Image src="continentes/americadonorte.jpg" className={styles.swiperImage}/>
-          <Text fontWeight="700" position="absolute" fontSize="3rem" color="white">América do Norte</Text>
-        </SwiperSlide>
-        <SwiperSlide className={styles.swiperSlide}>
-          <Image src="continentes/asia.jpg" className={styles.swiperImage}/>
-          <Text fontWeight="700" position="absolute" fontSize="3rem" color="white">Ásia</Text>
-        </SwiperSlide>
-        <SwiperSlide className={styles.swiperSlide}>
-          <Image src="continentes/africa.jpg" className={styles.swiperImage}/>
-          <Text fontWeight="700" position="absolute" fontSize="3rem" color="white">África</Text>
-        </SwiperSlide>
-        <SwiperSlide className={styles.swiperSlide}>
-          <Image src="continentes/oceania.jpg" className={styles.swiperImage}/>
-          <Text fontWeight="700" position="absolute" fontSize="3rem" color="white">Oceania</Text>
-        </SwiperSlide>
-      </Swiper>
-    </>
+    <Text textAlign="center" fontWeight="500" fontSize="2rem" marginTop="2rem" mb="2rem">
+      Vamos nessa?<br/>
+      Então escolha seu continente
+    </Text> 
+
+    <Swiper 
+      cssMode={true} 
+      navigation={true} 
+      pagination={true} 
+      mousewheel={true} 
+      keyboard={true}
+      className={styles.myswaper}
+    >
+      <SwiperSlide className={styles.swiperSlide}>
+        <EuropaSlide />
+      </SwiperSlide>
+      <SwiperSlide className={styles.swiperSlide}>
+        <AmericaDoSulSlide />
+      </SwiperSlide>
+      <SwiperSlide className={styles.swiperSlide}>
+        <AmericaDoNorteSlide />
+      </SwiperSlide>
+      <SwiperSlide className={styles.swiperSlide}>
+        <AsiaSlide />
+      </SwiperSlide>
+      <SwiperSlide className={styles.swiperSlide}>
+        <AfricaSlide />
+      </SwiperSlide>
+      <SwiperSlide className={styles.swiperSlide}>
+        <OceaniaSlide />
+      </SwiperSlide>
+    </Swiper>
+  </>
   )
 }
