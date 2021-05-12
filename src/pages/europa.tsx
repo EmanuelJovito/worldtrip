@@ -1,4 +1,4 @@
-import { Box, Flex, Grid, Image, Text } from "@chakra-ui/react";
+import { Box, Flex, Image } from "@chakra-ui/react";
 import { BannerEuropa } from "../components/BannerEuropa";
 import { Cidades100 } from "../components/Cidades100";
 import { EuropaInfo } from "../components/EurpaInfo";
@@ -14,9 +14,11 @@ export default function Europa() {
         align="center"
       >
         <Header />
+        <Box as="a" href="/" position="absolute" left="100" top="5">
+          <Image src="/voltar.svg"/>
+        </Box>
         <BannerEuropa />
         <EuropaInfo />
-
         <Cidades100 />
       </Flex>
     </>
