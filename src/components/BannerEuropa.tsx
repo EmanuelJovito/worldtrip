@@ -2,7 +2,7 @@ import { Flex, Image, Text } from "@chakra-ui/react";
 
 export function BannerEuropa() {
   return (
-    <Flex position="relative">
+    <Flex position="relative" mb="2rem">
       <Image 
         src="/europaThumb.png"
         w="100%"

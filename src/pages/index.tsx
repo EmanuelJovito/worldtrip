@@ -18,11 +18,6 @@ export default function Home() {
         <Banner />
         <TravelTypes />
 
-        <Text textAlign="center" fontWeight="500" fontSize="2rem" marginTop="2rem" mb="2rem">
-        Vamos nessa?<br/>
-        Então escolha seu continente
-        </Text>
-
         <ContinentsSlide />
       </Flex>
     </>
