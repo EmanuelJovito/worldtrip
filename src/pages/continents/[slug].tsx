@@ -1,8 +1,8 @@
 import { Box, Flex, Image } from "@chakra-ui/react";
-import { BannerEuropa } from "../components/BannerEuropa";
-import { Cidades100 } from "../components/Cidades100";
-import { EuropaInfo } from "../components/EurpaInfo";
-import { Header } from "../components/Header";
+import { BannerEuropa } from "../../components/BannerEuropa";
+import { Cidades100 } from "../../components/Cidades100";
+import { EuropaInfo } from "../../components/EurpaInfo";
+import { Header } from "../../components/Header";
 
 export default function Europa() {
   return (
