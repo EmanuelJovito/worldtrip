@@ -41,6 +41,48 @@
           "flag": "https://s3-alpha-sig.figma.com/img/a216/dd9d/438d40a947e2b1acdaa6d7adefeb6f35?Expires=1621814400&Signature=hP1e4LlMPFXqfb6~~je2sIxsH-qqud8vrYO-cdEXcTbRJm3hZo63fj2~7p0DRONuOys69-u-rR0VRoEa7NviwEucLJUl6TWYxlNsZN9Ur0PWMGdOXOvRbTeBnFnPd0BZg7WWsTJiPd9eKKfyxNIHCQbGnU7eiTPJwqH1ab9AWhoOrHQygexibAyEy6fJFpglyvIvxVbH7ADZF0zirw639crbx3BkstYXHnhksRIB5FoNnieVMjWh4O~pDetJtUGL8NNdOz0A4zJcHh1vGk04daB9I0Rfzf7dkpYeq52XsZfEu~nKNYRYsMS6vvOOIymm4spab7NNeUdpfuQ~pzqXzw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
         }
       }
+    },
+    {
+      "id": "america_do_sul",
+      "continent": "América do sul",
+      "description": "A América do Sul é um continente que compreende a porção meridional da América. Também é considerada um subcontinente do continente americano. A sua extensão é de 17 819 100 km², abrangendo 12% da superfície terrestre e 6% da população mundial.",
+      "informations": {
+        "countries": "13",
+        "language": "9",
+        "citys": "36"
+      },
+      "most_citys": {
+        "sao-paulo": {
+          "countrie": "Brasil",
+          "city": "São Paulo",
+          "thumb": "https://www.ofitexto.com.br/desenv/wp-content/uploads/2018/01/10-18-sao-paulo_av-paulista_voce-viajando.jpg",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png"
+        },
+        "lima": {
+          "countrie": "Peru",
+          "city": "Lima",
+          "thumb": "https://www.peru.travel/Contenido/Atractivo/Imagen/pt/218/1.1/Principal/shutterstock_682350013.jpg",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/1280px-Flag_of_Peru_%28state%29.svg.png"
+        },
+        "bogota": {
+          "countrie": "Colômbia",
+          "city": "Bogotá",
+          "thumb": "https://breathelife2030.org/wp-content/uploads/2019/05/Bogota_Candelaria.jpg",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/480px-Flag_of_Colombia.svg.png"
+        },
+        "rio-de-janeiro": {
+          "countrie": "Brasil",
+          "city": "Rio de Janeiro",
+          "thumb": "https://conexaoplaneta.com.br/wp-content/uploads/2019/01/unesco-declara-rio-de-janeiro-capital-mundial-arquitetura-8-conexao-planeta.jpg",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png"
+        },
+        "santiago": {
+          "countrie": "Chile",
+          "city": "Santiago",
+          "thumb": "http://sweetway.com.br/wp-content/uploads/2019/01/tudo-o-que-voce-precisa-saber-sobre-santiago-no-chile.jpg",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/480px-Flag_of_Chile.svg.png"
+        }
+      }
     }
   ]
 }
