@@ -1,4 +1,5 @@
 import { Flex, Text } from '@chakra-ui/react'
+import Head from 'next/head'
 
 import { Banner } from '../components/Banner'
 import { ContinentsSlide } from '../components/ContinentsSlide/ContinentsSlide'
@@ -14,6 +15,10 @@ export default function Home() {
         flexDirection="column"
         align="center"
       >
+        <Head>
+          <title>Home | WorldTrip</title>
+        </Head>
+        
         <Header />
         <Banner />
         <TravelTypes />
