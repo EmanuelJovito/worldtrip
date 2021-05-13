@@ -3,6 +3,7 @@
     {
       "id": "europa",
       "continent": "Europa",
+      "thumnail": "https://s3-alpha-sig.figma.com/img/9700/0556/be698d9fa6470e23713e801d9f04e27d?Expires=1621814400&Signature=GVJ5J7JcZm34q4FjCEDiLGoSoR0OvEmZQgWj3hU8j6exvRZFpWYZv7L4vD-NexqQT5tHg72oZXjpHFjUgdeMhlMmvDZQ1nb5HdA6S-AyuCL26EabYTVMJhxXmjtT0lyaul51YcV40LEPsv-X~SxRRO0wIpvHkL~FHMfVMmyX1kg8DdXrI0ZjI7gRptpDz1HUuIqB0OHTm-37G50cHuVlCkNOv2k56yHhgG6etKDQ-URcHvEMiMb9r40fxKT-5nyC5GHKKseqFLDD4tfcTfo4JhMoH6udvhqYKlgv47DAy-QdoOS9zk18hwE60hfTniLARijOfBe5hGYXnU~jfoXurA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
       "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
       "informations": {
         "countries": "50",
@@ -45,6 +46,7 @@
     {
       "id": "america_do_sul",
       "continent": "América do sul",
+      "thumnail": "https://www.elperiodista.cl/wp-content/uploads/2018/11/machu.jpg",
       "description": "A América do Sul é um continente que compreende a porção meridional da América. Também é considerada um subcontinente do continente americano. A sua extensão é de 17 819 100 km², abrangendo 12% da superfície terrestre e 6% da população mundial.",
       "informations": {
         "countries": "13",
